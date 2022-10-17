@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.archerzjn.formattingjson.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.archerzjn.formattingjson.MyBundle
 
 class MyApplicationService {
 
